@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shilamy
 - 👀 I’m interested in Java Programing
 - 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on anyone just to crack knowledge
+- 💞️ I’m looking to collaborate with anyone just to crack knowledge
 
 
 <!---
