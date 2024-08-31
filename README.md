@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shilamy
-- 👀 I’m interested in Java Programing
-- 🌱 I’m currently learning machine learning
+- 👀 I love Java Programing
+- 🌱 I’m currently learning React and Next.js
 - 💞️ I’m looking to collaborate with anyone just to crack knowledge
 
 
